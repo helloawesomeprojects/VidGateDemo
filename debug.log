@@ -1,0 +1,12 @@
+[0722/004856.586:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0722/004856.836:ERROR:exception_snapshot_win.cc(98)] thread ID 11152 not found in process
+[0807/140922.203:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0807/140922.484:ERROR:exception_snapshot_win.cc(98)] thread ID 6316 not found in process
+[0810/091420.635:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0810/091420.374:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0810/091420.633:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0810/091420.905:ERROR:exception_snapshot_win.cc(98)] thread ID 11428 not found in process
+[0810/091420.906:ERROR:exception_snapshot_win.cc(98)] thread ID 4220 not found in process
+[0810/091420.906:ERROR:exception_snapshot_win.cc(98)] thread ID 5876 not found in process
+[1101/121857.737:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1101/151442.841:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Javohir\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\9b3d996d-d4e8-4d5a-8373-773fb0ee030b: Системе не удается найти указанный путь. (0x3)
